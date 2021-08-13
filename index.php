@@ -4,11 +4,5 @@
 <br/> <iframe src="https://thingspeak.com/channels/1458419/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" width="450" height="250"> </iframe>
 <iframe src="https://thingspeak.com/channels/1458419/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15" width="450" height="250"> </iframe>
 <iframe src="https://thingspeak.com/channels/1458419/maps/channel_show" width="455" height="260"> </iframe>
- fetch(https://api.thingspeak.com/channels/1458419/feeds.json?results=2)
-.then(function (response) {
-  return response.json() 
-})
-.then(function (data) {
-  console.log(data);
-})
+
  
