@@ -8,7 +8,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
- <body>
+ <body onload="JavaScript:timedRefresh(5000);">
   <div class="jumbotron jumbotron-fluid">
   <div class="container p-3 my-3 bg-dark text-white">
   <h1 align = 'center'> Oilly Apaporn Thipsavak 62111687 </h1>
@@ -48,7 +48,6 @@
      function timedRefresh(timeoutPeriod) {
      setTimeout("location.reload(true);",timeoutPeriod);
      }
-
 </script>
 </body>
 </html>
