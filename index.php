@@ -9,6 +9,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
  <body>
+  <div class="jumbotron jumbotron-fluid">
   <div class="container p-3 my-3 bg-dark text-white">
   <h1 align = 'center'> Oilly Apaporn Thipsavak 62111687 </h1>
   </div>
@@ -42,5 +43,6 @@
        <br>
   <br>
       <iframe src="https://thingspeak.com/channels/1458419/maps/channel_show" width="455" height="260"><center> </iframe>
+       </div>
 </body>
 </html>
