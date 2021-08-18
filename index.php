@@ -1,9 +1,7 @@
 <html lang="en">
 <h1 align = 'center'> Oilly Apaporn Thipsavak 62111687 <br/> 
-<head> 
- <meta charest = "UTF-8">
- </head>
- <ul> id="myList"  </ul>
+<head> <meta charest = "UTF-8"> </head>
+ <ul  id="myList">  </ul>
 
 <script>
  function showData(data){
