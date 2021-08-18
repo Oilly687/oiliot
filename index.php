@@ -29,6 +29,7 @@
         echo "Temperature: ".$user->field2; echo " C"; 
          }
         ?>
+       <br>
       <iframe src="https://thingspeak.com/channels/1458419/maps/channel_show" width="455" height="260"> </iframe>
 </body>
 </html>
